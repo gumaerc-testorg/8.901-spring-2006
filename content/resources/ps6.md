@@ -6,6 +6,7 @@ file: /courses/8-901-astrophysics-i-spring-2006/8287551bd830b992ac1c1c6295053bd6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps6.pdf
 uid: 8287551b-d830-b992-ac1c-1c6295053bd6
 ---
 This resource contains problem based on properties of a white dwarf, white dwarf cooling, cosmochronology with white dwarfs.
-
