@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem based on energy released in supernova
   core collapse, nuclear statistical equilibrium, trajectories near a black hole.
 file: /courses/8-901-astrophysics-i-spring-2006/342ecfa3afc1aad168f5957e8167f822_ps7.pdf
+file_size: 56147
 file_type: application/pdf
 learning_resource_types:
 - Assignments
