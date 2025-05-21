@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problem based on historical astronomy: fundamental
   length scales, Magnitudes (optical intensity).'
-file: /ol-ocw-studio-app/courses/8-901-astrophysics-i-spring-2006/fc974868b05dc2f2912de41d02b7c8a6_ps1.pdf
+file: /courses/8-901-astrophysics-i-spring-2006/fc974868b05dc2f2912de41d02b7c8a6_ps1.pdf
 file_size: 83050
 file_type: application/pdf
 learning_resource_types:
