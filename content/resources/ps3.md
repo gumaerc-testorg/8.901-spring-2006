@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem based on Radiation pressure and the Eddington
   limit.
-file: /ol-ocw-studio-app/courses/8-901-astrophysics-i-spring-2006/f46043a00498843b204615ceb8af221d_ps3.pdf
+file: /courses/8-901-astrophysics-i-spring-2006/f46043a00498843b204615ceb8af221d_ps3.pdf
 file_size: 51124
 file_type: application/pdf
 learning_resource_types:
