@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem based on supernova explosion in a binary
   system, changes in orbital separation due to mass transfer, magnetospheric radius
   of an X-ray pulsar.
-file: /ol-ocw-studio-app/courses/8-901-astrophysics-i-spring-2006/73bd12e1817d52663c8a16385575b48f_ps9.pdf
+file: /courses/8-901-astrophysics-i-spring-2006/73bd12e1817d52663c8a16385575b48f_ps9.pdf
 file_size: 60190
 file_type: application/pdf
 learning_resource_types:
